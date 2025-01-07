@@ -1,0 +1,24 @@
+{
+  "name": "project-52",
+  "version": "1.0.0",
+  "description": "Weekly updates to project 52 as required",
+  "keywords": [
+    "weekly",
+    "updates"
+  ],
+  "homepage": "https://github.com/muktoakash/Project52#readme",
+  "bugs": {
+    "url": "https://github.com/muktoakash/Project52/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muktoakash/Project52.git"
+  },
+  "license": "ISC",
+  "author": "Mukto Akash",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
