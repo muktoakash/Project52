@@ -28,6 +28,14 @@ app.get('/week4', (req, res) => {
     res.render('week4.ejs');
 })
 
+app.get('/week5', (req, res) => {
+    res.render('week5.ejs');
+})
+
+app.get('/week6', (req, res) => {
+    res.render('week6.ejs');
+})
+
 app.listen(3000, () => {
     console.log('LISTENING ON PORT 3000');
 })
